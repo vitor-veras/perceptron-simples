@@ -1,8 +1,8 @@
 # coding: utf-8
 # Author: Vitor Veras
 import argparse
-from src import perceptron
-from src import dataManipulation
+import perceptron
+import dataManipulation
 
 iris_path = './../samples/iris.data'
 artificial1_path = './../samples/artificial1.data'
