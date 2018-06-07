@@ -1,12 +1,12 @@
-# Single layer Perceptron
-##Requirements:
+Perceptron Simlpes
+##Requisitos:
 
 ```bash
 pip3 install numpy pandas matplotlib seaborn
 ```
-obs: matplotlib and seaborn are just for data visualization
+obs: matplotlib and seaborn são apenas para visualização de dados
 
-## Usage:
+## Uso:
 ```bash
 python3 main.py -h
 usage: main.py [-h] [-r R] [-d {0,1}] [-e E] [-p P] [-l L]
@@ -23,11 +23,11 @@ optional arguments:
   -l L        Learning rate
 
 ```
-## Output: [Gist](https://gist.github.com/vitor-veras/349f0d784f41e71d7f104bde9fff623c)
+## Saída: [Gist](https://gist.github.com/vitor-veras/349f0d784f41e71d7f104bde9fff623c)
 
 
 
-### obs: All code comments are in Brazilian Portuguese.
+
 ## Author
 
 * **Vitor Veras de Moura** - [GitHub](https://github.com/vitor-veras) - Email: vitorverasm@gmail.com
